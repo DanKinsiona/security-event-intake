@@ -1,0 +1,10 @@
+.git
+.github
+__pycache__/
+*.pyc
+.venv
+venv/
+tests/
+README.md
+Dockerfile
+.dockerignore
